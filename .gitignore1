@@ -1,0 +1,23 @@
+# common
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# node
+node_modules/
+
+# python
+__pycache__/
+*.pyc
+.env
+
+# build
+dist/
+build/
+
+# database
+*.sqlite3
+
+# OS
+Thumbs.db
